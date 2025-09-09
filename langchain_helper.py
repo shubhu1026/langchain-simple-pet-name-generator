@@ -35,7 +35,7 @@ def langchain_agent():
     )
 
     result = agent.run(
-        "How long is the average lifespan of a dog? Multiply the lifespan by 3"
+        "When did India become independent. How many years ago was that?"
     )
 
 if __name__ == "__main__":
